@@ -1,13 +1,13 @@
 {
   "main.css": "/yolo/static/css/main.ce741728.chunk.css",
-  "main.js": "/yolo/static/js/main.71ad80f0.chunk.js",
-  "main.js.map": "/yolo/static/js/main.71ad80f0.chunk.js.map",
+  "main.js": "/yolo/static/js/main.749e50b4.chunk.js",
+  "main.js.map": "/yolo/static/js/main.749e50b4.chunk.js.map",
   "runtime~main.js": "/yolo/static/js/runtime~main.b4584dd2.js",
   "runtime~main.js.map": "/yolo/static/js/runtime~main.b4584dd2.js.map",
   "static/js/2.d6a534e5.chunk.js": "/yolo/static/js/2.d6a534e5.chunk.js",
   "static/js/2.d6a534e5.chunk.js.map": "/yolo/static/js/2.d6a534e5.chunk.js.map",
   "index.html": "/yolo/index.html",
-  "precache-manifest.397471dd9d7acca086900be48e3d54a1.js": "/yolo/precache-manifest.397471dd9d7acca086900be48e3d54a1.js",
+  "precache-manifest.87980621b14ff5be4db387482ee10e7c.js": "/yolo/precache-manifest.87980621b14ff5be4db387482ee10e7c.js",
   "service-worker.js": "/yolo/service-worker.js",
   "static/css/main.ce741728.chunk.css.map": "/yolo/static/css/main.ce741728.chunk.css.map"
 }
